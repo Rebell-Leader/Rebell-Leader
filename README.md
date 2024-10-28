@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rebell-Leader
-- 👀 I am interested in machine learning, BCI, DYI and personalized digital medicine projects. 
-- 🌱 I’m currently learning advanced python, machine learning, typescript and javascript.
+- 👋 Hi, I’m 
+- 👀 I am interested in  
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Open Source projects in spheres of my interest.
 - 📫 How to reach me ...
 
