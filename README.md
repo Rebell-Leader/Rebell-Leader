@@ -1,14 +1,16 @@
-I am a results-driven NLP Research Engineer with a Ph.D. in progress and a strong track record in developing and publishing SOTA models at the intersection of AI, computational chemistry, and biology. My expertise spans multi-modal LLMs, agentic systems (RAG), and end-to-end project leadership, from initial research and model pre-training to full-stack deployment.
+✌️Hi, nice to meet you! It's Airat.
 
-I thrive on translating complex scientific challenges into robust, efficient AI solutions. My work has significantly accelerated data processing in personalized medicine and contributed novel models to the scientific community. I am passionate about building intelligent systems that push the boundaries of drug discovery and scientific understanding.
+🏆I am a results-driven NLP Research Engineer with a Ph.D. in progress and a strong track record in developing and publishing SOTA models at the intersection of AI, computational chemistry, and biology. My expertise spans multi-modal LLMs, agentic systems (RAG), and end-to-end project leadership, from initial research and model pre-training to full-stack deployment.
 
-Contact & Links:
+🌱I thrive on translating complex scientific challenges into robust, efficient AI solutions. My work has significantly accelerated data processing in personalized medicine and contributed novel models to the scientific community. I am passionate about building intelligent systems that push the boundaries of drug discovery and scientific understanding.
 
-LinkedIn: /in/airat-v-7a28b7185/
+📧Contact & Links:
 
-GitHub: @Rebell-Leader
+🏢LinkedIn: [/in/airat-v-7a28b7185/](https://www.linkedin.com/in/airat-v-7a28b7185/)
 
-Location: Munich, Germany
+🧑‍💻GitHub: [@Rebell-Leader](https://github.com/Rebell-Leader)
+
+🗺️Location: Munich, Germany
 
 <!---
 Rebell-Leader/Rebell-Leader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
