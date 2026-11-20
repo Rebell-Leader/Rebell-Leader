@@ -6,7 +6,7 @@
 
 📧Contact & Links:
 
-🏢LinkedIn: [airat-valiev-7a28b7185/](https://www.linkedin.com/in/airat-valiev-7a287185/)
+🏢LinkedIn: [www.linkedin.com/in/airat-valiev-7a28b7185/](https://www.linkedin.com/in/airat-valiev-7a287185/)
 
 🧑‍💻GitHub: [@Rebell-Leader](https://github.com/Rebell-Leader)
 
